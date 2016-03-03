@@ -1,5 +1,5 @@
-# Team Picker
+# Random Pick
 
-Pick up one member from each team.
+Pick one value from each group
 
 Using bootstrap and javascript.
