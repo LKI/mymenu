@@ -1,5 +1,10 @@
-# Random Pick
+# 菜谱生成器 My Menu
 
-Pick one value from each group
+吃什么比怎么做难，
 
-Using bootstrap and javascript.
+所以就让[菜谱生成器][mymemu]来决定今天吃什么吧。
+
+新学会的菜会及时更新噢。
+
+
+[mymemu]: http://www.liriansu.com/mymemu
