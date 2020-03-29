@@ -7,4 +7,4 @@
 新学会的菜会及时更新噢。
 
 
-[mymemu]: http://www.liriansu.com/mymemu
+[mymemu]: https://liriansu.com/mymenu/
